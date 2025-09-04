@@ -1,0 +1,299 @@
+Kylian Mbappé; Real Madrid; ST; 91; Mbappé.png
+Erling Haaland; Manchester City; ST; 91; Haaland.png
+Rodri; Manchester City; CDM; 91; Rodri.png
+Jude Bellingham; Real Madrid; CM; 90; Bellingham.png
+Vinícius Jr.; Real Madrid; LW; 90; Vinícius.png
+Kevin De Bruyne; Manchester City; CM; 90; DeBruyne.png
+Harry Kane; Bayern Munich; ST; 90; Kane.png
+Lionel Messi; Inter Miami; RW; 88; Messi.png
+Robert Lewandowski; Barcelona; ST; 88; Lewandowski.png
+Thibaut Courtois; Real Madrid; GK; 89; Courtois.png
+Alisson Becker; Liverpool; GK; 89; Alisson.png
+Mohamed Salah; Liverpool; RW; 89; Salah.png
+Gianluigi Donnarumma; Paris Saint-Germain; GK; 89; Donnarumma.png
+Virgil van Dijk; Liverpool; CB; 89; VanDijk.png
+Rúben Dias; Manchester City; CB; 89; Dias.png
+Marc-André ter Stegen; Barcelona; GK; 89; TerStegen.png
+Phil Foden; Manchester City; RW; 88; Foden.png
+Antoine Griezmann; Atlético Madrid; ST; 88; Griezmann.png
+Bruno Fernandes; Manchester United; CAM; 88; Fernandes.png
+Bernardo Silva; Manchester City; CM; 88; Silva.png
+Joshua Kimmich; Bayern Munich; CDM; 88; Kimmich.png
+Lautaro Martínez; Inter Milan; ST; 88; Martínez.png
+Martin Ødegaard; Arsenal; CAM; 88; Ødegaard.png
+Federico Valverde; Real Madrid; CM; 88; Valverde.png
+Bukayo Saka; Arsenal; RW; 88; Saka.png
+Frenkie de Jong; Barcelona; CM; 87; DeJong.png
+Declan Rice; Arsenal; CDM; 87; Rice.png
+Jamal Musiala; Bayern Munich; CAM; 87; Musiala.png
+Pedri; Barcelona; CM; 87; Pedri.png
+Florian Wirtz; Bayer Leverkusen; CAM; 87; Wirtz.png
+Nicolò Barella; Inter Milan; CM; 87; Barella.png
+Alessandro Bastoni; Inter Milan; CB; 87; Bastoni.png
+William Saliba; Arsenal; CB; 87; Saliba.png
+Trent Alexander-Arnold; Liverpool; RB; 87; AlexanderArnold.png
+Rafael Leão; AC Milan; LW; 87; Leão.png
+Heung-Min Son; Tottenham Hotspur; LW; 87; Son.png
+İlkay Gündoğan; Barcelona; CM; 87; Gündoğan.png
+Toni Kroos; Real Madrid; CM; 87; Kroos.png
+Marquinhos; Paris Saint-Germain; CB; 87; Marquinhos.png
+Éder Militão; Real Madrid; CB; 87; Militão.png
+Casemiro; Manchester United; CDM; 87; Casemiro.png
+Ousmane Dembélé; Paris Saint-Germain; RW; 87; Dembélé.png
+Paulo Dybala; Roma; CAM; 87; Dybala.png
+Christopher Nkunku; Chelsea; CAM; 87; Nkunku.png
+Leroy Sané; Bayern Munich; RW; 87; Sané.png
+Sergej Milinković-Savić; Lazio; CM; 87; MilinkovićSavić.png
+Riyad Mahrez; Al Ahli; RW; 87; Mahrez.png
+Neymar Jr.; Al Hilal; LW; 87; Neymar.png
+Cristiano Ronaldo; Al Nassr; ST; 86; Ronaldo.png
+Karim Benzema; Al Ittihad; ST; 86; Benzema.png
+Luka Modrić;Real Madrid;CM;86;Modrić.png
+Ederson;Manchester City;GK;86;Ederson.png
+Manuel Neuer;Bayern Munich;GK;86;Neuer.png
+Jan Oblak;Atlético Madrid;GK;86;Oblak.png
+Emiliano Martínez;Aston Villa;GK;86;Martínez.png
+Mike Maignan;AC Milan;GK;86;Maignan.png
+André Onana;Manchester United;GK;86;Onana.png
+Wojciech Szczęsny;Juventus;GK;86;Szczęsny.png
+Gregor Kobel;Borussia Dortmund;GK;86;Kobel.png
+Aaron Ramsdale;Arsenal;GK;86;Ramsdale.png
+Jordan Pickford;Everton;GK;86;Pickford.png
+Nick Pope;Newcastle United;GK;86;Pope.png
+Unai Simón;Athletic Bilbao;GK;86;Simón.png
+Yann Sommer;Inter Milan;GK;86;Sommer.png
+Diogo Costa;Porto;GK;86;Costa.png
+Giorgi Mamardashvili;Valencia;GK;86;Mamardashvili.png
+Keylor Navas;Nottingham Forest;GK;86;Navas.png
+Hugo Lloris;Los Angeles FC;GK;86;Lloris.png
+David de Gea;Free Agent;GK;86;DeGea.png
+Kepa Arrizabalaga;Chelsea;GK;86;Kepa.png
+Matthijs de Ligt;Manchester United;CB;86;DeLigt.png
+Antonio Rüdiger;Real Madrid;CB;86;Rüdiger.png
+Dayot Upamecano;Bayern Munich;CB;86;Upamecano.png
+Jules Koundé;Barcelona;CB;86;Koundé.png
+Milan Škriniar;Paris Saint-Germain;CB;86;Škriniar.png
+Niklas Süle;Borussia Dortmund;CB;86;Süle.png
+Presnel Kimpembe;Paris Saint-Germain;CB;86;Kimpembe.png
+John Stones;Manchester City;CB;86;Stones.png
+Raphaël Varane;Como;CB;86;Varane.png
+Gabriel Magalhães;Arsenal;CB;86;Magalhães.png
+Cristian Romero;Tottenham Hotspur;CB;86;Romero.png
+Fikayo Tomori;AC Milan;CB;86;Tomori.png
+Kalidou Koulibaly;Al Hilal;CB;86;Koulibaly.png
+Aymeric Laporte;Al Nassr;CB;86;Laporte.png
+Joe Gomez;Liverpool;CB;85;Gomez.png
+Ibrahima Konaté;Liverpool;CB;85;Konaté.png
+Sven Botman;Newcastle United;CB;85;Botman.png
+Wesley Fofana;Chelsea;CB;85;Fofana.png
+Pau Torres;Villarreal;CB;85;Torres.png
+Edmond Tapsoba;Bayer Leverkusen;CB;85;Tapsoba.png
+Nico Schlotterbeck;Borussia Dortmund;CB;85;Schlotterbeck.png
+Evan Ndicka;Eintracht Frankfurt;CB;85;Ndicka.png
+Maxence Lacroix;VfL Wolfsburg;CB;85;Lacroix.png
+Jean-Clair Todibo;Nice;CB;85;Todibo.png
+Bremer;Juventus;CB;85;Bremer.png
+Francesco Acerbi;Inter Milan;CB;85;Acerbi.png
+Stefan de Vrij;Inter Milan;CB;85;DeVrij.png
+Leonardo Bonucci;Fenerbahçe;CB;85;Bonucci.png
+Sergio Ramos;Sevilla;CB;85;Ramos.png
+Mats Hummels;Roma;CB;85;Hummels.png
+Harry Maguire;Manchester United;CB;85;Maguire.png
+Victor Lindelöf;Manchester United;CB;85;Lindelöf.png
+Eric Bailly;Villarreal;CB;85;Bailly.png
+Chris Smalling;Roma;CB;85;Smalling.png
+Kurt Zouma;West Ham United;CB;85;Zouma.png
+James Tarkowski;Everton;CB;85;Tarkowski.png
+Tyrone Mings;Aston Villa;CB;85;Mings.png
+Ezri Konsa;Aston Villa;CB;85;Konsa.png
+Nathan Aké;Manchester City;CB;85;Aké.png
+Eric Dier;Bayern Munich;CB;85;Dier.png
+Ben White;Arsenal;CB;85;White.png
+Tosin Adarabioyo;Chelsea;CB;85;Adarabioyo.png
+Jannik Vestergaard;Leicester City;CB;85;Vestergaard.png
+Çağlar Söyüncü;Fenerbahçe;CB;85;Söyüncü.png
+Merih Demiral;Al Ahli;CB;85;Demiral.png
+Manuel Akanji;Manchester City;CB;85;Akanji.png
+Josko Gvardiol;Manchester City;CB;85;Gvardiol.png
+Lewis Dunk;Brighton & Hove Albion;CB;85;Dunk.png
+Marc Guéhi;Crystal Palace;CB;85;Guéhi.png
+Joachim Andersen;Fulham;CB;85;Andersen.png
+Benoît Badiashile;Chelsea;CB;85;Badiashile.png
+Levi Colwill;Chelsea;CB;85;Colwill.png
+Axel Disasi;Chelsea;CB;85;Disasi.png
+Kalvin Phillips;Manchester City;CDM;85;Phillips.png
+Sandro Tonali;Newcastle United;CDM;85;Tonali.png
+Thomas Partey;Arsenal;CDM;85;Partey.png
+Wilfred Ndidi;Leicester City;CDM;85;Ndidi.png
+Yves Bissouma;Tottenham Hotspur;CDM;85;Bissouma.png
+Sofyan Amrabat;Fiorentina;CDM;85;Amrabat.png
+João Palhinha;Bayern Munich;CDM;85;Palhinha.png
+Pierre-Emile Højbjerg;Tottenham Hotspur;CDM;85;Højbjerg.png
+Scott McTominay;Manchester United;CDM;85;McTominay.png
+N’Golo Kanté;Al Ittihad;CDM;85;Kanté.png
+Fabinho;Al Ittihad;CDM;85;Fabinho.png
+Leon Goretzka;Bayern Munich;CM;85;Goretzka.png
+Marcel Sabitzer;Borussia Dortmund;CM;85;Sabitzer.png
+Mateo Kovačić;Manchester City;CM;85;Kovačić.png
+Adrien Rabiot;Juventus;CM;85;Rabiot.png
+Dani Parejo;Villarreal;CM;85;Parejo.png
+Thiago Alcântara;Free Agent;CM;85;Alcântara.png
+Jordan Henderson;Ajax;CM;85;Henderson.png
+James Ward-Prowse;West Ham United;CM;85;WardProwse.png
+Christian Eriksen;Manchester United;CM;85;Eriksen.png
+Hakan Çalhanoğlu;Inter Milan;CM;85;Çalhanoğlu.png
+Piotr Zieliński;Napoli;CM;85;Zieliński.png
+Granit Xhaka;Bayer Leverkusen;CM;85;Xhaka.png
+Exequiel Palacios;Bayer Leverkusen;CM;85;Palacios.png
+Mikel Merino;Real Sociedad;CM;85;Merino.png
+Giovani Lo Celso;Tottenham Hotspur;CM;85;LoCelso.png
+Ross Barkley;Luton Town;CM;85;Barkley.png
+Virgil van Dijk;Liverpool;CB;89;VanDijk.png
+Rúben Dias;Manchester City;CB;89;Dias.png
+David Alaba;Real Madrid;CB;85;Alaba.png
+Thiago Silva;Fluminense;CB;85;Silva.png
+Pepe;Porto;CB;85;Pepe.png
+José María Giménez;Atlético Madrid;CB;85;Giménez.png
+Stefan Savić;Atlético Madrid;CB;85;Savić.png
+Davinson Sánchez;Galatasaray;CB;85;Sánchez.png
+Yerry Mina;Cagliari;CB;85;Mina.png
+Phil Jones;Free Agent;CB;85;Jones.png
+Axel Tuanzebe;Free Agent;CB;85;Tuanzebe.png
+Craig Dawson;Wolverhampton Wanderers;CB;85;Dawson.png
+Ben Godfrey;Atalanta;CB;85;Godfrey.png
+Diego Carlos;Fulham;CB;85;Carlos.png
+Joe Rodon;Leeds United;CB;85;Rodon.png
+Rob Holding;Bologna;CB;85;Holding.png
+Japhet Tanganga;Millwall;CB;85;Tanganga.png
+Ozan Kabak;1899 Hoffenheim;CB;85;Kabak.png
+Attila Szalai;Fenerbahçe;CB;85;Szalai.png
+Martin Hinteregger;Free Agent;CB;85;Hinteregger.png
+Kevin Vogt;Union Berlin;CB;85;Vogt.png
+Nico Elvedi;Borussia Mönchengladbach;CB;85;Elvedi.png
+Matthias Ginter;SC Freiburg;CB;85;Ginter.png
+Robin Koch;Eintracht Frankfurt;CB;85;Koch.png
+Lukas Klostermann;RB Leipzig;CB;85;Klostermann.png
+Nathan Collins;Brentford;CB;85;Collins.png
+Conor Coady;Leicester City;CB;85;Coady.png
+Adam Webster;Brighton & Hove Albion;CB;85;Webster.png
+Trevoh Chalobah;Chelsea;CB;85;Chalobah.png
+Malang Sarr;Lens;CB;85;Sarr.png
+Achraf Hakimi;Paris Saint-Germain;RB;85;Hakimi.png
+Dani Carvajal;Real Madrid;RB;85;Carvajal.png
+João Cancelo;Al Hilal;RB;85;Cancelo.png
+Kyle Walker;Manchester City;RB;85;Walker.png
+Reece James;Chelsea;RB;85;James.png
+Kieran Trippier;Newcastle United;RB;85;Trippier.png
+Aaron Wan-Bissaka;West Ham United;RB;85;WanBissaka.png
+Diogo Dalot;Manchester United;RB;85;Dalot.png
+Pedro Porro;Tottenham Hotspur;RB;85;Porro.png
+Noussair Mazraoui;Bayern Munich;RB;85;Mazraoui.png
+Benjamin Pavard;Inter Milan;RB;85;Pavard.png
+Denzel Dumfries;Inter Milan;RB;85;Dumfries.png
+Jeremie Frimpong;Bayer Leverkusen;RB;85;Frimpong.png
+Ricardo Pereira;Leicester City;RB;85;Pereira.png
+Matty Cash;Aston Villa;RB;85;Cash.png
+Nelson Semedo;Wolverhampton Wanderers;RB;85;Semedo.png
+Emerson Royal;AC Milan;RB;85;Royal.png
+Vladimír Coufal;West Ham United;RB;85;Coufal.png
+Tariq Lamptey;Brighton & Hove Albion;RB;85;Lamptey.png
+Jurrien Timber;Arsenal;RB;85;Timber.png
+Theo Hernández;AC Milan;LB;85;Hernández.png
+Alphonso Davies;Bayern Munich;LB;85;Davies.png
+Andy Robertson;Liverpool;LB;85;Robertson.png
+Luke Shaw;Manchester United;LB;85;Shaw.png
+Ferland Mendy;Real Madrid;LB;85;Mendy.png
+Ben Chilwell;Chelsea;LB;85;Chilwell.png
+Oleksandr Zinchenko;Arsenal;LB;85;Zinchenko.png
+João Mário;Porto;LB;85;Mário.png
+Nuno Mendes;Paris Saint-Germain;LB;85;Mendes.png
+José Gayà;Valencia;LB;85;Gayà.png
+Marc Cucurella;Chelsea;LB;85;Cucurella.png
+Destiny Udogie;Tottenham Hotspur;LB;85;Udogie.png
+Pervis Estupiñán;Brighton & Hove Albion;LB;85;Estupiñán.png
+Sergio Reguilón;Tottenham Hotspur;LB;85;Reguilón.png
+Renan Lodi;Al Hilal;LB;85;Lodi.png
+Alex Telles;Botafogo;LB;85;Telles.png
+Matt Targett;Newcastle United;LB;85;Targett.png
+Lucas Digne;Aston Villa;LB;85;Digne.png
+Tyrick Mitchell;Crystal Palace;LB;85;Mitchell.png
+Vitaliy Mykolenko;Everton;LB;85;Mykolenko.png
+Eduardo Camavinga;Real Madrid;CM;85;Camavinga.png
+Aurélien Tchouaméni;Real Madrid;CM;85;Tchouaméni.png
+Enzo Fernández;Chelsea;CM;85;Fernández.png
+Ryan Gravenberch;Liverpool;CM;85;Gravenberch.png
+Curtis Jones;Liverpool;CM;85;Jones.png
+Dominik Szoboszlai;Liverpool;CM;85;Szoboszlai.png
+Conor Gallagher;Atlético Madrid;CM;85;Gallagher.png
+Mason Mount;Manchester United;CM;85;Mount.png
+Kobbie Mainoo;Manchester United;CM;85;Mainoo.png
+Moisés Caicedo;Chelsea;CM;85;Caicedo.png
+Douglas Luiz;Juventus;CM;85;Luiz.png
+Bruno Guimarães;Newcastle United;CM;85;Guimarães.png
+João Gomes;Wolverhampton Wanderers;CM;85;Gomes.png
+Amadou Onana;Everton;CM;85;Onana.png
+André;Wolverhampton Wanderers;CM;85;André.png
+Boubacar Kamara;Aston Villa;CM;85;Kamara.png
+Youri Tielemans;Aston Villa;CM;85;Tielemans.png
+Sean Longstaff;Newcastle United;CM;85;Longstaff.png
+James Garner;Everton;CM;85;Garner.png
+Oliver Skipp;Leicester City;CM;85;Skipp.png
+Romeo Lavia;Chelsea;CM;85;Lavia.png
+Valentín Barco;Brighton & Hove Albion;CM;85;Barco.png
+Ismaël Bennacer;AC Milan;CM;85;Bennacer.png
+Sofiane Boufal;Al Rayyan;LW;85;Boufal.png
+Marcus Rashford;Manchester United;LW;85;Rashford.png
+Jack Grealish;Manchester City;LW;85;Grealish.png
+Gabriel Martinelli;Arsenal;LW;85;Martinelli.png
+Cody Gakpo;Liverpool;LW;85;Gakpo.png
+Khvicha Kvaratskhelia;Napoli;LW;85;Kvaratskhelia.png
+Luis Díaz;Liverpool;LW;85;Díaz.png
+Anthony Gordon;Newcastle United;LW;85;Gordon.png
+Mykhailo Mudryk;Chelsea;LW;85;Mudryk.png
+Kaoru Mitoma;Brighton & Hove Albion;LW;85;Mitoma.png
+Pedro Gonçalves;Sporting CP;LW;85;Gonçalves.png
+Ivan Perišić;PSV Eindhoven;LW;85;Perišić.png
+Kingsley Coman;Bayern Munich;LW;85;Coman.png
+Raheem Sterling;Arsenal;LW;85;Sterling.png
+João Félix;Chelsea;LW;85;Félix.png
+Darwin Núñez;Liverpool;ST;85;Núñez.png
+Victor Osimhen;Napoli;ST;85;Osimhen.png
+Alexander Isak;Newcastle United;ST;85;Isak.png
+Ollie Watkins;Aston Villa;ST;85;Watkins.png
+Richarlison;Tottenham Hotspur;ST;85;Richarlison.png
+Dominic Calvert-Lewin;Everton;ST;85;CalvertLewin.png
+Tammy Abraham;Roma;ST;85;Abraham.png
+Dušan Vlahović;Juventus;ST;85;Vlahović.png
+Rasmus Højlund;Manchester United;ST;85;Højlund.png
+Gonçalo Ramos;Paris Saint-Germain;ST;85;Ramos.png
+Patson Daka;Leicester City;ST;85;Daka.png
+Jonathan David;Lille;ST;85;David.png
+Youssef En-Nesyri;Sevilla;ST;85;EnNesyri.png
+Álvaro Morata;AC Milan;ST;85;Morata.png
+Pierre-Emerick Aubameyang;Marseille;ST;85;Aubameyang.png
+Romelu Lukaku;Napoli;ST;85;Lukaku.png
+Ciro Immobile;Lazio;ST;85;Immobile.png
+Edin Džeko;Fenerbahçe;ST;85;Džeko.png
+Memphis Depay;Corinthians;ST;85;Depay.png
+Gabriel Jesus;Arsenal;ST;85;Jesus.png
+Julián Álvarez;Atlético Madrid;ST;85;Álvarez.png
+Evan Ferguson;Brighton & Hove Albion;ST;85;Ferguson.png
+João Pedro;Brighton & Hove Albion;ST;85;Pedro.png
+Viktor Gyökeres;Sporting CP;ST;85;Gyökeres.png
+Santiago Giménez;Feyenoord;ST;85;Giménez.png
+Randal Kolo Muani;Paris Saint-Germain;ST;85;KoloMuani.png
+Marcus Thuram;Inter Milan;ST;85;Thuram.png
+Benjamin Šeško;RB Leipzig;ST;85;Šeško.png
+Joselu;Real Madrid;ST;85;Joselu.png
+Iñaki Williams;Athletic Bilbao;RW;85;Williams.png
+Dejan Kulusevski;Tottenham Hotspur;RW;85;Kulusevski.png
+Federico Chiesa;Liverpool;RW;85;Chiesa.png
+Samuel Chukwueze;AC Milan;RW;85;Chukwueze.png
+Noni Madueke;Chelsea;RW;85;Madueke.png
+Cole Palmer;Chelsea;RW;85;Palmer.png
+Jarrod Bowen;West Ham United;RW;85;Bowen.png
+Michael Olise;Bayern Munich;RW;85;Olise.png
+Bryan Mbeumo;Brentford;RW;85;Mbeumo.png
+Pedro Neto;Chelsea;RW;85;Neto.png
+Lucas Paquetá;West Ham United;CAM;85;Paquetá.png
+James Maddison;Tottenham Hotspur;CAM;85;Maddison.png
